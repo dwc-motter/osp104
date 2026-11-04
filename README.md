@@ -1,4 +1,4 @@
-# xq3osp
+# osp104
 > ⚠️ **Important:** the original **OSP 1.03a** QVMs have security bugs, especially dangerous in network
 > games. A malicious player or server can crash the game, corrupt its memory or run console commands.
 > Use the [1.03a-secured](https://github.com/JKornev/xq3osp/releases/tag/1.03a-secured) release
